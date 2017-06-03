@@ -8,8 +8,10 @@
 * [Office 365](https://www.office.com/)
 * [draw.io](https://www.draw.io/)
 
-## 라이선스
-* [MIT License](https://opensource.org/licenses/MIT)
+## 역기획서 목표
+* 해당 시스템을 재구축 가능한 문서
+* 해당 시스템을 구현할 개발자의 상상력을 제한하지 않는 문서
+
 
 ## 기타
 * 프로젝트에 관한 질문은 [메일](notonalcyone@gmail.com)로 부탁드립니다.
